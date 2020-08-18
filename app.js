@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyAeyKNf42CAf_6FuC3DQ75TgMFo6nKTV4A",
+  authDomain: "onlinegames-c4ecf.firebaseapp.com",
+  databaseURL: "https://onlinegames-c4ecf.firebaseio.com",
+  projectId: "onlinegames-c4ecf",
+  storageBucket: "onlinegames-c4ecf.appspot.com",
+  messagingSenderId: "483056103089",
+  appId: "1:483056103089:web:b83b02fafd394f5b2abc90",
+  measurementId: "G-89P3KDFZK2"
 };
 
      
